@@ -2,7 +2,8 @@
  
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=c4ff0e&text=PORTFOLIO&section=header&reversal=false&textBg=false&animation=twinkling&desc=JEONGMOONKIM&descSize=30&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
 
-　
+
+ 
 ## 🙏 INTRO
 안녕하세요!  
 INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니다.  
