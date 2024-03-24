@@ -9,11 +9,7 @@
 
 　
 ## ⚙ Skills  
-![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![b](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![c](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
-![d](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![e](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![b](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![d](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![e](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 　
