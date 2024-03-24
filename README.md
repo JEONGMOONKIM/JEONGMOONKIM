@@ -24,7 +24,7 @@
 
 　  
 ## ✨ Projects
- #### 1. 북쪽지뢰찾기
+ #### 1. 지뢰찾기
 > &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩   
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
 > 사용기술 : C#, SQL   
