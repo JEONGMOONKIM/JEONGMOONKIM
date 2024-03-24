@@ -27,7 +27,7 @@
  #### 1. 지뢰찾기
 > &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩   
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
->> 사용기술 : C#, SQL   
+> &nbsp;&nbsp;&nbsp;사용기술 : C#, SQL   
 >
 ><a href="https://github.com/JEONGMOONKIM/AI_intel">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
@@ -35,7 +35,7 @@
  #### 2. 초음파 센서를 이용한 자율 주행 자동차
 > &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
->> 사용기술 : C, RTOS, STM32, UltraSonic   
+> 사용기술 : C, RTOS, STM32, UltraSonic   
 >
 ><a href="https://github.com/JEONGMOONKIM/AI_intel">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
