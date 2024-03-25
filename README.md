@@ -42,7 +42,7 @@
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
 > &nbsp;&nbsp;&nbsp;사용기술 : C, RTOS, STM32, UltraSonic   
 >
-><a href="https://github.com/JEONGMOONKIM/AI_intel">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+><a href="https://github.com/JEONGMOONKIM/Ultra_sonic_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
 
 
