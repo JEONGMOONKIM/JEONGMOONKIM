@@ -34,7 +34,7 @@
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
 > &nbsp;&nbsp;&nbsp;사용기술 : C#, SQL   
 >
-><a href="https://github.com/JEONGMOONKIM/AI_intel">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+><a href="https://github.com/JEONGMOONKIM/Minesweeper">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
 
  #### 2. 초음파 센서를 이용한 자율 주행 자동차
