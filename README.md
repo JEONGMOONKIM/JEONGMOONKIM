@@ -62,8 +62,7 @@
 > &nbsp;&nbsp;&nbsp;기 간 :  
 > &nbsp;&nbsp;&nbsp;사용기술 : Python  
 >   
-> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  
->  
+
 
 
 　
