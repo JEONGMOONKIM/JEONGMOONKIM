@@ -29,17 +29,50 @@
 　  
 ## ✨ Projects
  #### 1. 지뢰찾기
-> &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩   
-> &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
+> &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩    
 > &nbsp;&nbsp;&nbsp;사용기술 : C#, SQL   
 >
 ><a href="https://github.com/JEONGMOONKIM/Minesweeper">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>
 
 
  #### 2. 초음파 센서를 이용한 자율 주행 자동차
-> &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
-> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
+> &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계    
 > &nbsp;&nbsp;&nbsp;사용기술 : C, RTOS, STM32, UltraSonic   
+>
+><a href="https://github.com/JEONGMOONKIM/Ultra_sonic_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+
+ #### 3. 카페 추천
+> &nbsp;&nbsp;&nbsp;설 명 :     
+> &nbsp;&nbsp;&nbsp;사용기술 :    
+>
+><a href="https://github.com/JEONGMOONKIM/cafe_recommendation.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+
+ #### 4. 쇼핑 크롤링
+> &nbsp;&nbsp;&nbsp;설 명 :    
+> &nbsp;&nbsp;&nbsp;사용기술 :    
+>
+><a href="https://github.com/JEONGMOONKIM/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+
+
+## Mini Project
+ #### 1. 
+> &nbsp;&nbsp;&nbsp;설 명 :     
+> &nbsp;&nbsp;&nbsp;사용기술 :    
+>
+><a href="https://github.com/JEONGMOONKIM/Ultra_sonic_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+
+ #### 2. 
+> &nbsp;&nbsp;&nbsp;설 명 :     
+> &nbsp;&nbsp;&nbsp;사용기술 :    
 >
 ><a href="https://github.com/JEONGMOONKIM/Ultra_sonic_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
@@ -55,8 +88,7 @@
 > <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
 
-
-　 
+ 
 > #### 2. K-헤커톤 (디벨롭 중)  
 > &nbsp;&nbsp;&nbsp;설 명 :    
 > &nbsp;&nbsp;&nbsp;기 간 :  
