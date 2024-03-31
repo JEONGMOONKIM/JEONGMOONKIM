@@ -61,7 +61,7 @@
 >
 
 
-## Mini Project
+## 💡 Mini Project
  #### 1. 
 > &nbsp;&nbsp;&nbsp;설 명 :     
 > &nbsp;&nbsp;&nbsp;사용기술 :    
